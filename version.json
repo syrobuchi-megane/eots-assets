@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 7,
-  "latest_version_name": "1.0.0",
-  "release_notes_ja": "製品版リリース。並び替え機能、設定画面改善、記事リンク対応など。",
-  "release_notes_en": "Production release. Sort feature, settings improvements, article link support.",
+  "latest_version_code": 9,
+  "latest_version_name": "1.0.1",
+  "release_notes_ja": "重複通知の修正、通知権限チェックの改善など。",
+  "release_notes_en": "Fixed duplicate notifications, improved notification permission check.",
   "update_url": "https://play.google.com/store/apps/details?id=com.notifvault"
 }
