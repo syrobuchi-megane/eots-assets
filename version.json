@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 10,
-  "latest_version_name": "1.0.2",
-  "release_notes_ja": "通知の重複検出を改善。初回起動時の通知権限リクエスト追加。バージョン情報表示追加。",
-  "release_notes_en": "Improved duplicate notification detection. Added notification permission request on first launch. Added version info display.",
+  "latest_version_code": 11,
+  "latest_version_name": "1.0.3",
+  "release_notes_ja": "背景画像カスタマイズ機能追加。ギャラリーから好きな画像を設定可能。ダーク/ライトモードの文字色表示改善。",
+  "release_notes_en": "Added background image customization. Set your own image from gallery. Improved text color in dark/light mode.",
   "update_url": "https://play.google.com/store/apps/details?id=com.notifvault"
 }
