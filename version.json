@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 11,
-  "latest_version_name": "1.0.3",
-  "release_notes_ja": "背景画像カスタマイズ機能追加。ギャラリーから好きな画像を設定可能。ダーク/ライトモードの文字色表示改善。",
-  "release_notes_en": "Added background image customization. Set your own image from gallery. Improved text color in dark/light mode.",
+  "latest_version_code": 12,
+  "latest_version_name": "1.0.4",
+  "release_notes_ja": "通知に含まれる画像・アイコンの表示精度を改善しました（一部アプリで画像が表示されない問題を修正）。通知詳細画面のレイアウトを改善し、通知バーに近い表示形式にしました。アプリ評価ページへのアクセスを追加しました。その他、表示の安定性を改善しました。",
+  "release_notes_en": "Improved image and icon display accuracy in notifications (fixed issue where images were not displayed in some apps). Enhanced notification detail screen layout for better notification bar representation. Added access to app review page. Other stability improvements.",
   "update_url": "https://play.google.com/store/apps/details?id=com.notifvault"
 }
